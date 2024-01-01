@@ -26,7 +26,7 @@ Our recommendation algorithm calculates the similarity between songs based on TF
 
 ## How To Use
 
-To use the application, simply run the Jupyter Notebook file. In this way, you will be able to perform the necessary operations on the data set and train the model with this data. In the last part, you can get your output by giving the requested inputs to the program appropriately.
+To use the application, simply run the Jupyter Notebook file in NLP_Model folder. In this way, you will be able to perform the necessary operations on the data set and train the model with this data. In the last part, you can get your output by giving the requested inputs to the program appropriately.
 
 ## Programming Language and Required Libraries
 
